@@ -1,5 +1,5 @@
 # snake-game
-a shitty snake game made in c++ and sfml
+a simple snake game made in c++ and sfml
 
 as always, it's better to use the src to find out how it's made rather than compiling it
 
